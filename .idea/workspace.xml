@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61568d67-0b32-437c-8d07-294d10e63b20" name="Changes" comment="first message">
-      <change afterPath="$PROJECT_DIR$/src/Pizza/Pizza.java" afterDir="false" />
+    <list default="true" id="61568d67-0b32-437c-8d07-294d10e63b20" name="Changes" comment="Pizza Store">
+      <change afterPath="$PROJECT_DIR$/src/FoodPizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodPizza/GreekPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PizzaStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pizza/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -44,11 +48,26 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PizzaStore" />
+      <module name="Pizza Store" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaStore" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659360706244</updated>
-      <workItem from="1659360707669" duration="1203000" />
+      <workItem from="1659360707669" duration="13094000" />
     </task>
     <task id="LOCAL-00001" summary="first message">
       <created>1659361038929</created>
@@ -73,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659361421947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pizza Store">
+      <created>1659361945276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659361945276</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pizza Store">
+      <created>1659362060784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659362060784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first message" />
-    <option name="LAST_COMMIT_MESSAGE" value="first message" />
+    <MESSAGE value="Pizza Store" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pizza Store" />
   </component>
 </project>
