@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61568d67-0b32-437c-8d07-294d10e63b20" name="Changes" comment="Pizza Store" />
+    <list default="true" id="61568d67-0b32-437c-8d07-294d10e63b20" name="Changes" comment="modify process">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza/ProcessPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FoodPizza/GreekPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FoodPizza/GreekPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PizzaStore.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,7 +46,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Thinh/Desktop/demo/solid/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,9 +59,16 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PizzaStore" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Pizza.PizzaStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pizza.PizzaStore" />
+      <module name="Pizza Store" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="Pizza Store" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,7 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PizzaStore" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Pizza.PizzaStore" />
       </list>
     </recent_temporary>
   </component>
@@ -71,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659360706244</updated>
       <workItem from="1659360707669" duration="13394000" />
+      <workItem from="1660922918257" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="first message">
       <created>1659361038929</created>
@@ -127,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first message" />
     <MESSAGE value="Pizza Store" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pizza Store" />
+    <MESSAGE value="modify process" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify process" />
   </component>
 </project>
